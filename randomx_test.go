@@ -11,22 +11,22 @@ var tests = [][3][]byte{
 	{
 		[]byte("test key 000"),
 		[]byte("This is a test"),
-		[]byte("11832c48e712bb71b46112f8ca62b6cf926146acd751f6c523e9b31d8c766551"),
+		[]byte("7266bdd4668d0718f9f8817af9a251a7b8ed49468a00717c74584ba2ac7e3e09"),
 	},
 	{
 		[]byte("test key 000"),
 		[]byte("Lorem ipsum dolor sit amet"),
-		[]byte("f78a38ecbb737b68aafc38060dad3aa4251576d0d1bfe8dc851b39c6ace2d882"),
+		[]byte("bcdc7bce23f615e00d4369bec3c05cd7add07fc25c49529e7671582133d025f0"),
 	},
 	{
 		[]byte("test key 000"),
 		[]byte("sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"),
-		[]byte("14596e4dfa62c57ce7b32a3b2bab5c9056f77876078a8f4bb40597c3dbccab5a"),
+		[]byte("c64944ed33e4abd159fb8692c81a923bbe7a7c346fd39349f76fb53fa284bc87"),
 	},
 	{
 		[]byte("test key 001"),
 		[]byte("sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"),
-		[]byte("9c846d32bbeaa3df31a7cccba8d29d9a6d9a7a9a4233fb6c106c3018455b6ceb"),
+		[]byte("6b339ad028e772e91290df111e61fa82af0eef1dfc53dfbcb04a98945b01dca6"),
 	},
 }
 
